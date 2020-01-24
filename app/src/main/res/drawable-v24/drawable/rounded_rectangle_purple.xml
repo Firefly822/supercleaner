@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" tools:ignore="StateListReachable">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle" >
+
+            <!-- View background color -->
+            <solid
+                android:color="#5F16C2" >
+            </solid>
+
+            <!-- The radius makes the corners rounded -->
+            <corners
+                android:radius="48dp">
+            </corners>
+        </shape>
+    </item>
+
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle" >
+
+            <!-- View background color -->
+            <solid
+                android:color="#7C1CFF" >
+            </solid>
+
+            <!-- The radius makes the corners rounded -->
+            <corners
+                android:radius="48dp">
+            </corners>
+        </shape>
+    </item>
+
+</selector>

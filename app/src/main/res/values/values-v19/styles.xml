@@ -1,0 +1,19 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <!-- Customize your theme here. -->
+        <item name="android:scrollbarThumbVertical">@color/orange</item>
+        <item name="android:scrollbarSize">3dp</item>
+        <!-- Customize your theme here. -->
+        <!-- toolbar（actionbar）颜色 -->
+        <item name="colorPrimary">@color/white</item>
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/gray</item>
+        <!-- 窗口的背景颜色 -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="colorAccent">@color/orange</item>
+        <item name="android:hardwareAccelerated">false</item>
+    </style>
+
+
+</resources>

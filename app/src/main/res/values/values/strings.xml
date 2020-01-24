@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LitApp</string>
+    <string name="facebook_app_id">Facebook App ID</string>
+    <string name="agree_hint">By signing up，you agree to out\nAgreements &amp; Privacv Policies</string>
+    <string name="get_verify_code">Get code again%s</string>
+    <string name="match_success">Matching success</string>
+</resources>
